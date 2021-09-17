@@ -49,12 +49,12 @@ div {
 }
 
 #yellow h2 {
-    color: "black";
+    color: black;
     text-shadow: 4px 4px 2px #c7e2;
 }
 
-#yellow p {
-    color: "black"  ;
+#yellow body {
+    color: black" ;
 }
 
 
